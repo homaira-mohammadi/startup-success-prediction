@@ -3,7 +3,7 @@
 
 ## 📄 Project Report
 For detailed methodology, preprocessing steps, and evaluation results,  
-see the full report: [docs/Start-up Success Prediction.pdf](docs/Start-up Success Prediction.pdf)
+see the full report: [Start-up Success Prediction.pdf](Start-up Success Prediction.pdf)
 
 ---
 
